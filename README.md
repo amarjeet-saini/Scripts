@@ -1,6 +1,6 @@
 # Scripts
 
-Contains some scripts :- <br/>
+Contains some scripts for accuracy calculation and parsing:- <br/>
 1. [accuracy.py](https://github.com/amarjeet-saini/Scripts/blob/main/accuracy.py)</br>
    calculating accuracy if input file contains classes for actual and predict. <br/>
    <h6>Run :</br> $ python3 accuracy.py filename.txt engine_no model_name TOTAL</h6>
