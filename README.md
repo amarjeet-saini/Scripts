@@ -8,4 +8,8 @@ Contains some scripts :- <br/>
    model_name : any string <br/>
    TOTAL_CLASS :- any int i.e 5000 (for Imagenet)  <br/> 
    Output file format : .txt file bool {True: if correct prediction else False} <br/>
-    
+
+2. <h5>accuracy.py </h5> calculating no of mispredictions across 2 engine files. <br/>
+   Input file format : 2 output files generated from parse script <br/>
+                       [Actual | Predict]
+                       
