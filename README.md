@@ -12,6 +12,7 @@ Contains some scripts :- <br/>
 
 2. [mispredict_engines.py](https://github.com/amarjeet-saini/Scripts/blob/main/mispredict_engines.py)</br>
    calculating no of mispredictions across output files of 2 engine. <br/>
+   <h6>Run :</br> $ python3 mispredict_engines.py output1.txt output2.txt</h6>
    <h5>Input file format :</h5> 2 output files generated from parse script <br/>
                        [Actual | Predict]
                        
